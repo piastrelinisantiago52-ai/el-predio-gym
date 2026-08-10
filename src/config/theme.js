@@ -19,7 +19,7 @@ export const brand = {
   // Logo oficial de El Predio Gym (colores originales respetados,
   // sin recolorear ni redibujar; solo se removió el fondo blanco
   // para que se integre a cualquier superficie de la app).
-  logo: "/src/assets/logo/logo-predio.png",
+  logo: "/media/logo/logo-predio.png",
 };
 
 export const colors = {
