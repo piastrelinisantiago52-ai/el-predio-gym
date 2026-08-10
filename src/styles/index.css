@@ -1,0 +1,242 @@
+@import "tailwindcss";
+
+/* ============================================================
+   EL PREDIO GYM — ARCHIVO CENTRAL DE DISEÑO
+   ============================================================
+   Este es el único lugar donde se define la identidad visual
+   de la app: colores, tipografía, radios, sombras, gradientes
+   y animaciones. Cualquier cambio acá se refleja en todo el
+   proyecto, tanto en las clases de Tailwind como en
+   src/config/theme.js (que solo referencia estas mismas variables).
+
+   REDISEÑO COMPLETO — inspirado en la calidad visual de Nike
+   Training Club, Hevy, Fitbod y Apple Fitness (no copiado). Sigue
+   usando exclusivamente los colores oficiales de El Predio Gym:
+   celeste del logo como color principal, blanco como base y negro
+   solo para generar contraste en texto y detalles.
+   ============================================================ */
+
+:root {
+  /* --- Celeste de marca (tomado directamente del logo oficial) --- */
+  --brand-primary: #1277ad;
+  --brand-primary-dark: #0c5c86;
+  --brand-primary-light: #5aa8d1;
+
+  --brand-secondary: #ffffff;       /* Blanco */
+
+  /* Gradiente de marca: mismo celeste, dos tonos. Se usa con
+     moderación (CTA principal, glow del hero) para no perder el
+     look minimalista que pide la marca. */
+  --brand-gradient-primary: linear-gradient(135deg, var(--brand-primary) 0%, var(--brand-primary-dark) 100%);
+
+  /* --- Superficies (interfaz clara) --- */
+  --brand-page-bg: #f7f9fa;         /* Fondo general, blanco roto */
+  --brand-surface: #ffffff;         /* Tarjetas y contenedores */
+  --brand-surface-alt: #eef2f4;     /* Superficie elevada / hover */
+  --brand-border: #e4e8eb;          /* Bordes sutiles */
+
+  /* --- Texto (negro solo para texto y detalles, como pide la marca) --- */
+  --brand-ink: #101113;
+  --brand-ink-secondary: #667085;
+  --brand-ink-muted: #98a2b3;
+
+  --brand-success: #22c55e;
+  --brand-danger: #e0392f;
+
+  /* Tipografía: Space Grotesk para títulos (geométrica, con carácter,
+     look de app 2026), Inter para texto (muy legible en celular). */
+  --brand-font-display: "Space Grotesk", "Inter", system-ui, sans-serif;
+  --brand-font-body: "Inter", system-ui, sans-serif;
+
+  /* Radios — look de app nativa */
+  --brand-radius-sm: 10px;
+  --brand-radius-md: 16px;
+  --brand-radius-lg: 28px;
+  --brand-radius-full: 999px;
+
+  /* Sombras premium: capas suaves y muy difusas, sin bordes duros */
+  --brand-shadow-card: 0 1px 2px rgba(16, 17, 19, 0.04), 0 12px 32px rgba(16, 17, 19, 0.07);
+  --brand-shadow-card-hover: 0 2px 6px rgba(16, 17, 19, 0.06), 0 20px 44px rgba(16, 17, 19, 0.1);
+  --brand-shadow-glow: 0 12px 28px rgba(18, 119, 173, 0.3);
+  --brand-shadow-elevated: 0 4px 10px rgba(16, 17, 19, 0.06), 0 20px 40px rgba(18, 119, 173, 0.16);
+
+  /* Borde casi imperceptible para dar nitidez a las tarjetas sobre
+     fondos claros, además de la sombra (técnica típica de UI premium) */
+  --brand-card-border: rgba(16, 17, 19, 0.045);
+
+  /* Duración estándar de las microanimaciones y transiciones entre pantallas */
+  --brand-motion-base: 250ms;
+  --brand-motion-logo: 700ms;
+}
+
+/* Mapeo de los valores de marca a los tokens de utilidades de Tailwind v4.
+   A partir de acá se generan clases como bg-primary, text-ink,
+   font-display, rounded-md, shadow-card, etc. */
+@theme {
+  --color-primary: var(--brand-primary);
+  --color-primary-dark: var(--brand-primary-dark);
+  --color-primary-light: var(--brand-primary-light);
+  --color-secondary: var(--brand-secondary);
+
+  --color-page: var(--brand-page-bg);
+  --color-surface: var(--brand-surface);
+  --color-surface-alt: var(--brand-surface-alt);
+  --color-border: var(--brand-border);
+
+  --color-ink: var(--brand-ink);
+  --color-ink-secondary: var(--brand-ink-secondary);
+  --color-ink-muted: var(--brand-ink-muted);
+
+  --color-success: var(--brand-success);
+  --color-danger: var(--brand-danger);
+
+  --font-display: var(--brand-font-display);
+  --font-body: var(--brand-font-body);
+
+  --radius-sm: var(--brand-radius-sm);
+  --radius-md: var(--brand-radius-md);
+  --radius-lg: var(--brand-radius-lg);
+  --radius-full: var(--brand-radius-full);
+
+  --shadow-card: var(--brand-shadow-card);
+  --shadow-card-hover: var(--brand-shadow-card-hover);
+  --shadow-glow: var(--brand-shadow-glow);
+  --shadow-elevated: var(--brand-shadow-elevated);
+
+  --color-card-border: var(--brand-card-border);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  /* Fondo con un lavado celeste muy sutil arriba de cada pantalla,
+     desvaneciéndose hacia el blanco roto de base — profundidad sin
+     perder el aspecto limpio y minimalista. */
+  background:
+    radial-gradient(120% 55% at 50% -12%, rgba(18, 119, 173, 0.09), transparent 60%),
+    var(--brand-page-bg);
+  background-attachment: fixed;
+  color: var(--brand-ink);
+  font-family: var(--brand-font-body);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior-y: none;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--brand-font-display);
+  letter-spacing: -0.015em;
+}
+
+/* Relleno con el gradiente de marca — botón principal, acentos puntuales */
+.brand-gradient {
+  background: var(--brand-gradient-primary);
+}
+
+/* Foco visible solo para navegación por teclado (no aparece con mouse/touch) */
+:focus-visible {
+  outline: 2px solid var(--brand-primary);
+  outline-offset: 2px;
+  border-radius: var(--brand-radius-sm);
+}
+
+/* Respeta el área segura de dispositivos con notch / home indicator */
+.safe-bottom {
+  padding-bottom: max(1rem, env(safe-area-inset-bottom));
+}
+
+/* Oculta la barra de scroll en los tabs de días sin perder el scroll */
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* ============================================================
+   Animaciones suaves y discretas
+   ============================================================ */
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes glow-pulse {
+  from {
+    opacity: 0.5;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in var(--brand-motion-base) ease-out both;
+}
+
+/* Aparición del logo en la pantalla de bienvenida: fade + scale muy sutil */
+.animate-logo-in {
+  animation: scale-in var(--brand-motion-logo) cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+/* Resplandor detrás del logo en la bienvenida */
+.animate-glow-in {
+  animation: glow-pulse var(--brand-motion-logo) cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@keyframes sheet-in {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Entrada de la ficha "Ver técnica" a pantalla completa */
+.animate-sheet-in {
+  animation: sheet-in 320ms cubic-bezier(0.22, 1, 0.36, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-in,
+  .animate-logo-in,
+  .animate-glow-in,
+  .animate-sheet-in {
+    animation: none;
+  }
+}

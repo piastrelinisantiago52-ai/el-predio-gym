@@ -1,0 +1,896 @@
+{
+  "genero": "mujer",
+  "dias": 4,
+  "nombrePlan": "Rutina Oficial El Predio — 4 días",
+  "rutina": [
+    {
+      "dia": 1,
+      "titulo": "Día 1 · Glúteos y Cuádriceps",
+      "ejercicios": [
+        {
+          "id": 98,
+          "slug": "calentamiento-eliptico",
+          "nombre": "Elíptico",
+          "series": 1,
+          "repeticiones": "15 minutos",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Entrada en calor (cardio)",
+          "tecnica": "Movimiento continuo a intensidad moderada en elíptico, para elevar la temperatura corporal antes del entrenamiento.",
+          "erroresComunes": [
+            "Empezar a intensidad muy alta en frío",
+            "Saltear la entrada en calor"
+          ],
+          "imagen": "/media/imagenes/calentamiento-eliptico.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 27,
+          "slug": "crunch-abdominal",
+          "nombre": "Crunch abdominal",
+          "series": 4,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Abdomen (recto anterior)",
+          "tecnica": "Acostado, rodillas flexionadas, manos apoyadas cerca de la cabeza sin tirar del cuello. Subir el torso contrayendo el abdomen y bajar controlado sin apoyar del todo.",
+          "erroresComunes": [
+            "Tirar del cuello con las manos",
+            "Usar impulso de las piernas",
+            "Subir demasiado como si fuera un abdominal completo"
+          ],
+          "imagen": "https://img.youtube.com/vi/C3aOKQMNuKk/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=C3aOKQMNuKk",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 86,
+          "slug": "abdomen-bicicleta",
+          "nombre": "Abdomen oblicuo con giro (bicicleta)",
+          "series": 4,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Abdomen (oblicuos)",
+          "tecnica": "Acostado, manos detrás de la cabeza. Llevar el codo hacia la rodilla contraria alternando piernas, en un movimiento de pedaleo controlado.",
+          "erroresComunes": [
+            "Tirar del cuello con las manos",
+            "Hacer el movimiento demasiado rápido sin control"
+          ],
+          "imagen": "https://img.youtube.com/vi/dYxamPVcKvk/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=dYxamPVcKvk",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 23,
+          "slug": "hiperextension",
+          "nombre": "Hiperextensión lumbar",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Espalda baja / Glúteos",
+          "tecnica": "Cadera apoyada en el banco romano, torso hacia abajo. Subir extendiendo la espalda hasta alinear el cuerpo, apretando glúteo, sin hiperextender de más arriba.",
+          "erroresComunes": [
+            "Subir de más arqueando en exceso",
+            "Usar impulso brusco",
+            "No controlar la bajada"
+          ],
+          "imagen": "https://img.youtube.com/vi/bLPebovecmg/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/bLPebovecmg",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 7,
+          "slug": "hip-thrust",
+          "nombre": "Hip thrust con barra",
+          "series": 4,
+          "repeticiones": "15-12-12-10",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Glúteos",
+          "tecnica": "Espalda apoyada en banco, barra sobre la cadera. Empujar la cadera hacia arriba apretando fuerte el glúteo en la parte alta, sin hiperextender la lumbar, y bajar controlado.",
+          "erroresComunes": [
+            "Arquear la zona lumbar en vez de extender la cadera",
+            "Apoyar mal la barra generando molestia",
+            "Subir con impulso de piernas"
+          ],
+          "imagen": "https://img.youtube.com/vi/7B4pSZhzkYY/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/7B4pSZhzkYY",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 68,
+          "slug": "sentadilla-sumo-mancuerna",
+          "nombre": "Sentadilla sumo con mancuerna",
+          "series": 4,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Cuádriceps / Aductores",
+          "tecnica": "Piernas bien abiertas, mancuerna sostenida con ambas manos al centro. Bajar manteniendo el pecho arriba y empujar con los talones para subir.",
+          "erroresComunes": [
+            "Rodillas colapsando hacia adentro",
+            "No abrir lo suficiente las caderas al bajar"
+          ],
+          "imagen": "https://img.youtube.com/vi/TSrhPvAemzA/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/TSrhPvAemzA",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 64,
+          "slug": "prensa-45",
+          "nombre": "Prensa 45°",
+          "series": 4,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Cuádriceps / Glúteos",
+          "tecnica": "Sentado en la prensa, pies al ancho de hombros sobre la plataforma. Bajar controlado hasta 90° de rodilla y empujar sin bloquear de golpe.",
+          "erroresComunes": [
+            "Bajar demasiado despegando la lumbar del respaldo",
+            "Bloquear la rodilla con fuerza arriba"
+          ],
+          "imagen": "https://img.youtube.com/vi/IcIroo9VzF4/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/IcIroo9VzF4",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 25,
+          "slug": "abduccion-cadera",
+          "nombre": "Abducción de cadera en máquina",
+          "series": 4,
+          "repeticiones": "20",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Glúteo medio",
+          "tecnica": "Sentado en la máquina, respaldo recto. Abrir las piernas contra la resistencia apretando el glúteo, y volver controlado sin dejar caer el peso de golpe.",
+          "erroresComunes": [
+            "Usar impulso del torso",
+            "Rango de movimiento muy corto",
+            "Soltar el peso en la vuelta"
+          ],
+          "imagen": "https://img.youtube.com/vi/2vCRMi-lgJ4/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=2vCRMi-lgJ4",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 16,
+          "slug": "gemelos-de-pie",
+          "nombre": "Elevación de talones de pie",
+          "series": 4,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Gemelos",
+          "tecnica": "De pie sobre una base elevada, talones fuera del apoyo. Subir lo más alto posible sobre la punta de los pies, apretar arriba y bajar hasta sentir el estiramiento.",
+          "erroresComunes": [
+            "Rango de movimiento muy corto",
+            "Rebotar en vez de controlar",
+            "No bajar por debajo de la línea del apoyo"
+          ],
+          "imagen": "https://img.youtube.com/vi/Y09LG23eVZU/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=Y09LG23eVZU",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 103,
+          "slug": "cierre-aerobico-final",
+          "nombre": "Aeróbico final",
+          "series": 1,
+          "repeticiones": "15-20 minutos",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Cardio (cierre)",
+          "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
+          "erroresComunes": [
+            "Elegir una intensidad demasiado alta para sostener el tiempo completo",
+            "Saltear este bloque de forma habitual"
+          ],
+          "imagen": "/media/imagenes/cierre-aerobico-final.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 104,
+          "slug": "cierre-elongacion",
+          "nombre": "Elongación",
+          "series": 1,
+          "repeticiones": "Grupos trabajados",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Elongación",
+          "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
+          "erroresComunes": [
+            "Rebotar en vez de sostener el estiramiento",
+            "Estirar en frío sin haber entrenado antes"
+          ],
+          "imagen": "/media/imagenes/cierre-elongacion.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        }
+      ]
+    },
+    {
+      "dia": 2,
+      "titulo": "Día 2 · Espalda y Bíceps",
+      "ejercicios": [
+        {
+          "id": 99,
+          "slug": "calentamiento-remo",
+          "nombre": "Remo",
+          "series": 1,
+          "repeticiones": "15 minutos",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Entrada en calor (cardio)",
+          "tecnica": "Remada continua a intensidad moderada en el remo ergométrico, activando piernas, espalda y core antes del entrenamiento.",
+          "erroresComunes": [
+            "Empezar a intensidad muy alta en frío",
+            "Saltear la entrada en calor"
+          ],
+          "imagen": "/media/imagenes/calentamiento-remo.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 81,
+          "slug": "abdomen-pelota-piernas-extendidas",
+          "nombre": "Abdomen con pelota, piernas extendidas",
+          "series": 4,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Abdomen",
+          "tecnica": "Acostado con la pelota entre las manos y los pies, piernas extendidas. Elevar torso y piernas para pasar la pelota de las manos a los pies.",
+          "erroresComunes": [
+            "Usar impulso en vez de control",
+            "No contraer bien el abdomen al elevar"
+          ],
+          "imagen": "https://img.youtube.com/vi/ukK-eamMI_0/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=ukK-eamMI_0",
+          "dificultad": "Intermedio"
+        },
+        {
+          "id": 88,
+          "slug": "plancha-lateral",
+          "nombre": "Plancha lateral",
+          "series": 3,
+          "repeticiones": "30 seg c/lado",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Abdomen (oblicuos)",
+          "tecnica": "Apoyo en un antebrazo y el costado del pie, cuerpo en línea recta. Mantener la cadera elevada sin dejarla caer durante todo el tiempo.",
+          "erroresComunes": [
+            "Dejar caer la cadera",
+            "Girar el torso hacia adelante o atrás"
+          ],
+          "imagen": "https://img.youtube.com/vi/3iTX7S0kONg/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=3iTX7S0kONg",
+          "dificultad": "Intermedio"
+        },
+        {
+          "id": 95,
+          "slug": "espinales-baston",
+          "nombre": "Espinales con bastón",
+          "series": 4,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Espinales / Zona lumbar",
+          "tecnica": "De pie, bastón apoyado sobre los hombros como una barra. Flexionar el torso hacia adelante desde la cadera, manteniendo la espalda neutra, y volver.",
+          "erroresComunes": [
+            "Redondear la espalda al flexionar",
+            "Flexionar desde la zona lumbar en vez de la cadera"
+          ],
+          "imagen": "https://img.youtube.com/vi/4sCNC7hkYrM/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=4sCNC7hkYrM",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 10,
+          "slug": "jalon-pecho",
+          "nombre": "Jalón al pecho en polea",
+          "series": 4,
+          "repeticiones": "12-12-10-10",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Espalda (dorsal ancho)",
+          "tecnica": "Agarre ancho, torso ligeramente inclinado atrás. Tirar la barra hacia la parte alta del pecho llevando codos hacia abajo, y subir controlado sin soltar la tensión.",
+          "erroresComunes": [
+            "Tirar la barra detrás de la nuca",
+            "Usar impulso echando todo el cuerpo hacia atrás",
+            "Agarre demasiado cerrado"
+          ],
+          "imagen": "https://img.youtube.com/vi/UwnFFf2fV8w/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/UwnFFf2fV8w",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 4,
+          "slug": "remo-barra",
+          "nombre": "Remo con barra",
+          "series": 4,
+          "repeticiones": "10",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Espalda (dorsal ancho)",
+          "tecnica": "Torso inclinado unos 45°, espalda recta. Tirar de la barra hacia el abdomen llevando los codos hacia atrás, apretando los omóplatos, y bajar controlado.",
+          "erroresComunes": [
+            "Usar impulso de la lumbar (balanceo)",
+            "No completar el recorrido",
+            "Encoger los hombros en vez de llevar los codos atrás"
+          ],
+          "imagen": "https://img.youtube.com/vi/xyh5wKA5jBs/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/xyh5wKA5jBs",
+          "dificultad": "Intermedio"
+        },
+        {
+          "id": 40,
+          "slug": "remo-maquina",
+          "nombre": "Remo en máquina",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Espalda",
+          "tecnica": "Sentado con el pecho apoyado en la almohadilla, agarres al frente. Tirar hacia atrás llevando los codos junto al cuerpo, apretando los omóplatos.",
+          "erroresComunes": [
+            "Despegar el pecho del respaldo",
+            "No completar el recorrido hacia atrás"
+          ],
+          "imagen": "https://img.youtube.com/vi/rcS3dvtBXDY/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/rcS3dvtBXDY",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 12,
+          "slug": "curl-biceps",
+          "nombre": "Curl de bíceps con barra Z",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Bíceps",
+          "tecnica": "De pie, agarre supino en la barra Z. Flexionar el codo llevando la barra hacia el hombro sin mover el torso, y bajar controlado hasta extensión completa.",
+          "erroresComunes": [
+            "Balancear el cuerpo para impulsar el peso",
+            "No extender completo el codo abajo",
+            "Codos que se despegan del torso"
+          ],
+          "imagen": "https://img.youtube.com/vi/6Ue53hldjBI/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/6Ue53hldjBI",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 51,
+          "slug": "curl-alternado-mancuernas",
+          "nombre": "Curl alternado con mancuernas",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Bíceps",
+          "tecnica": "De pie, mancuernas a los costados. Flexionar un brazo por vez llevando la mancuerna hacia el hombro, girando la muñeca hacia afuera.",
+          "erroresComunes": [
+            "Balancear el cuerpo para impulsar el peso",
+            "Mover el codo hacia adelante"
+          ],
+          "imagen": "https://img.youtube.com/vi/c3Pl0072T7Q/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/c3Pl0072T7Q",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 14,
+          "slug": "extension-cuadriceps",
+          "nombre": "Extensión de cuádriceps en máquina",
+          "series": 3,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Cuádriceps",
+          "tecnica": "Sentado, respaldo ajustado, tobillo bajo el rodillo. Extender la pierna hasta casi bloquear la rodilla, apretar arriba y bajar controlado sin soltar el peso de golpe.",
+          "erroresComunes": [
+            "Soltar el peso en la bajada",
+            "Despegar la espalda del respaldo",
+            "Usar impulso con el torso"
+          ],
+          "imagen": "https://img.youtube.com/vi/PVAwJf2liSY/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=PVAwJf2liSY",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 77,
+          "slug": "gemelos-sentado-maquina",
+          "nombre": "Gemelos sentado en máquina",
+          "series": 3,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Gemelos (sóleo)",
+          "tecnica": "Sentado, rodillas bajo las almohadillas, puntas de pie sobre la plataforma. Subir lo más alto posible y bajar hasta sentir el estiramiento.",
+          "erroresComunes": [
+            "Rango de movimiento muy corto",
+            "Rebotar en vez de controlar"
+          ],
+          "imagen": "https://img.youtube.com/vi/Hq7ZnmkuZWM/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=Hq7ZnmkuZWM",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 103,
+          "slug": "cierre-aerobico-final",
+          "nombre": "Aeróbico final",
+          "series": 1,
+          "repeticiones": "15-20 minutos",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Cardio (cierre)",
+          "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
+          "erroresComunes": [
+            "Elegir una intensidad demasiado alta para sostener el tiempo completo",
+            "Saltear este bloque de forma habitual"
+          ],
+          "imagen": "/media/imagenes/cierre-aerobico-final.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 104,
+          "slug": "cierre-elongacion",
+          "nombre": "Elongación",
+          "series": 1,
+          "repeticiones": "Grupos trabajados",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Elongación",
+          "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
+          "erroresComunes": [
+            "Rebotar en vez de sostener el estiramiento",
+            "Estirar en frío sin haber entrenado antes"
+          ],
+          "imagen": "/media/imagenes/cierre-elongacion.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        }
+      ]
+    },
+    {
+      "dia": 3,
+      "titulo": "Día 3 · Glúteos y Femorales",
+      "ejercicios": [
+        {
+          "id": 97,
+          "slug": "calentamiento-bicicleta",
+          "nombre": "Bicicleta",
+          "series": 1,
+          "repeticiones": "15 minutos",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Entrada en calor (cardio)",
+          "tecnica": "Pedaleo continuo a intensidad moderada en bicicleta fija, para elevar la temperatura corporal antes del entrenamiento.",
+          "erroresComunes": [
+            "Empezar a intensidad muy alta en frío",
+            "Saltear la entrada en calor"
+          ],
+          "imagen": "/media/imagenes/calentamiento-bicicleta.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 87,
+          "slug": "crunch-maquina",
+          "nombre": "Crunch en máquina",
+          "series": 4,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Abdomen",
+          "tecnica": "Sentado en la máquina, torso apoyado en la almohadilla superior. Flexionar el torso hacia adelante contrayendo el abdomen, y volver controlado.",
+          "erroresComunes": [
+            "Usar demasiado peso perdiendo la técnica",
+            "Tirar con los brazos en vez del abdomen"
+          ],
+          "imagen": "https://img.youtube.com/vi/DLU0RKjZV2g/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=DLU0RKjZV2g",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 84,
+          "slug": "abdomen-tocando-talones",
+          "nombre": "Abdomen tocando talones",
+          "series": 4,
+          "repeticiones": "12 c/lado",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Abdomen (oblicuos)",
+          "tecnica": "Acostado, rodillas flexionadas y pies apoyados. Elevar levemente el torso y tocar alternadamente cada talón con la mano del mismo lado.",
+          "erroresComunes": [
+            "Tirar del cuello",
+            "Girar el torso completo en vez de solo elevarlo"
+          ],
+          "imagen": "https://img.youtube.com/vi/PmD8OjgsdrY/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=PmD8OjgsdrY",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 23,
+          "slug": "hiperextension",
+          "nombre": "Hiperextensión lumbar",
+          "series": 4,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Espalda baja / Glúteos",
+          "tecnica": "Cadera apoyada en el banco romano, torso hacia abajo. Subir extendiendo la espalda hasta alinear el cuerpo, apretando glúteo, sin hiperextender de más arriba.",
+          "erroresComunes": [
+            "Subir de más arqueando en exceso",
+            "Usar impulso brusco",
+            "No controlar la bajada"
+          ],
+          "imagen": "https://img.youtube.com/vi/bLPebovecmg/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/bLPebovecmg",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 70,
+          "slug": "peso-muerto-rumano-mancuernas",
+          "nombre": "Peso muerto rumano con mancuernas",
+          "series": 4,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Isquiotibiales / Glúteos",
+          "tecnica": "Mancuernas al frente del cuerpo, piernas semi extendidas. Bajar empujando la cadera hacia atrás sin redondear la espalda, hasta sentir el estiramiento.",
+          "erroresComunes": [
+            "Redondear la espalda baja",
+            "Doblar demasiado las rodillas convirtiéndolo en sentadilla"
+          ],
+          "imagen": "https://img.youtube.com/vi/SAdzug-v7D0/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/SAdzug-v7D0",
+          "dificultad": "Intermedio"
+        },
+        {
+          "id": 71,
+          "slug": "curl-femoral-sentado",
+          "nombre": "Curl femoral sentado",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Isquiotibiales",
+          "tecnica": "Sentado en la máquina, rodillo apoyado sobre el tobillo, respaldo ajustado. Flexionar la rodilla llevando el rodillo hacia abajo y volver controlado.",
+          "erroresComunes": [
+            "Despegar la espalda del respaldo",
+            "Usar impulso en vez de control"
+          ],
+          "imagen": "https://img.youtube.com/vi/POgzKaM92X4/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/POgzKaM92X4",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 7,
+          "slug": "hip-thrust",
+          "nombre": "Hip thrust con barra",
+          "series": 4,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Glúteos",
+          "tecnica": "Espalda apoyada en banco, barra sobre la cadera. Empujar la cadera hacia arriba apretando fuerte el glúteo en la parte alta, sin hiperextender la lumbar, y bajar controlado.",
+          "erroresComunes": [
+            "Arquear la zona lumbar en vez de extender la cadera",
+            "Apoyar mal la barra generando molestia",
+            "Subir con impulso de piernas"
+          ],
+          "imagen": "https://img.youtube.com/vi/7B4pSZhzkYY/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/7B4pSZhzkYY",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 72,
+          "slug": "patada-gluteo-polea",
+          "nombre": "Patada de glúteo en polea",
+          "series": 4,
+          "repeticiones": "15 c/pierna",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Glúteos",
+          "tecnica": "De pie frente a la polea baja, tobillera en el pie. Empujar la pierna hacia atrás y arriba apretando el glúteo, y volver controlado.",
+          "erroresComunes": [
+            "Usar impulso de la espalda baja",
+            "Rango de movimiento muy corto"
+          ],
+          "imagen": "https://img.youtube.com/vi/JvTbK5773hc/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/JvTbK5773hc",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 76,
+          "slug": "aductores-maquina",
+          "nombre": "Aductores en máquina",
+          "series": 3,
+          "repeticiones": "20",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Aductores",
+          "tecnica": "Sentado en la máquina, piernas apoyadas en las almohadillas abiertas. Cerrar las piernas apretando el aductor, y volver controlado.",
+          "erroresComunes": [
+            "Usar impulso del torso",
+            "Soltar el peso en la vuelta"
+          ],
+          "imagen": "https://img.youtube.com/vi/dycKfaquQWo/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=dycKfaquQWo",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 78,
+          "slug": "gemelos-en-prensa",
+          "nombre": "Gemelos en prensa",
+          "series": 4,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Gemelos",
+          "tecnica": "Sentado en la prensa, solo la punta de los pies apoyada en la plataforma. Empujar extendiendo el tobillo y bajar hasta sentir el estiramiento.",
+          "erroresComunes": [
+            "Rango de movimiento muy corto",
+            "Bloquear la rodilla en vez de mover solo el tobillo"
+          ],
+          "imagen": "https://img.youtube.com/vi/EptZC_AY6fE/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=EptZC_AY6fE",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 103,
+          "slug": "cierre-aerobico-final",
+          "nombre": "Aeróbico final",
+          "series": 1,
+          "repeticiones": "15-20 minutos",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Cardio (cierre)",
+          "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
+          "erroresComunes": [
+            "Elegir una intensidad demasiado alta para sostener el tiempo completo",
+            "Saltear este bloque de forma habitual"
+          ],
+          "imagen": "/media/imagenes/cierre-aerobico-final.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 104,
+          "slug": "cierre-elongacion",
+          "nombre": "Elongación",
+          "series": 1,
+          "repeticiones": "Grupos trabajados",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Elongación",
+          "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
+          "erroresComunes": [
+            "Rebotar en vez de sostener el estiramiento",
+            "Estirar en frío sin haber entrenado antes"
+          ],
+          "imagen": "/media/imagenes/cierre-elongacion.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        }
+      ]
+    },
+    {
+      "dia": 4,
+      "titulo": "Día 4 · Pecho, Hombros y Tríceps",
+      "ejercicios": [
+        {
+          "id": 100,
+          "slug": "calentamiento-cinta",
+          "nombre": "Cinta",
+          "series": 1,
+          "repeticiones": "15 minutos",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Entrada en calor (cardio)",
+          "tecnica": "Trote suave o caminata rápida en cinta, para elevar la temperatura corporal antes del entrenamiento.",
+          "erroresComunes": [
+            "Empezar a intensidad muy alta en frío",
+            "Saltear la entrada en calor"
+          ],
+          "imagen": "/media/imagenes/calentamiento-cinta.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 27,
+          "slug": "crunch-abdominal",
+          "nombre": "Crunch abdominal",
+          "series": 4,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Abdomen (recto anterior)",
+          "tecnica": "Acostado, rodillas flexionadas, manos apoyadas cerca de la cabeza sin tirar del cuello. Subir el torso contrayendo el abdomen y bajar controlado sin apoyar del todo.",
+          "erroresComunes": [
+            "Tirar del cuello con las manos",
+            "Usar impulso de las piernas",
+            "Subir demasiado como si fuera un abdominal completo"
+          ],
+          "imagen": "https://img.youtube.com/vi/C3aOKQMNuKk/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=C3aOKQMNuKk",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 86,
+          "slug": "abdomen-bicicleta",
+          "nombre": "Abdomen oblicuo con giro (bicicleta)",
+          "series": 4,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Abdomen (oblicuos)",
+          "tecnica": "Acostado, manos detrás de la cabeza. Llevar el codo hacia la rodilla contraria alternando piernas, en un movimiento de pedaleo controlado.",
+          "erroresComunes": [
+            "Tirar del cuello con las manos",
+            "Hacer el movimiento demasiado rápido sin control"
+          ],
+          "imagen": "https://img.youtube.com/vi/dYxamPVcKvk/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=dYxamPVcKvk",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 96,
+          "slug": "superman-colchoneta",
+          "nombre": "Superman en colchoneta",
+          "series": 3,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Espinales / Zona lumbar",
+          "tecnica": "Acostado boca abajo, brazos extendidos al frente. Elevar simultáneamente brazos y piernas del piso, apretando la zona lumbar, y bajar controlado.",
+          "erroresComunes": [
+            "Elevar de más forzando el cuello",
+            "Usar impulso brusco en vez de control"
+          ],
+          "imagen": "https://img.youtube.com/vi/6IojLNZWVP8/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=6IojLNZWVP8",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 33,
+          "slug": "press-banca-mancuernas",
+          "nombre": "Press de banca plano con mancuernas",
+          "series": 4,
+          "repeticiones": "12-10-10-8",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Pectoral",
+          "tecnica": "Acostado en banco plano, mancuernas a la altura del pecho. Empujar hacia arriba hasta casi juntar las mancuernas, y bajar controlado.",
+          "erroresComunes": [
+            "Bajar demasiado rápido",
+            "Codos completamente abiertos a 90°"
+          ],
+          "imagen": "https://img.youtube.com/vi/_2YYO-BdoKI/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/_2YYO-BdoKI",
+          "dificultad": "Intermedio"
+        },
+        {
+          "id": 34,
+          "slug": "press-inclinado-maquina",
+          "nombre": "Press inclinado en máquina",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Pectoral superior",
+          "tecnica": "Sentado en el banco inclinado de la máquina, agarres a la altura del pecho. Empujar hacia arriba y adelante sin bloquear de golpe los codos.",
+          "erroresComunes": [
+            "Despegar la espalda del respaldo",
+            "No controlar la fase de bajada"
+          ],
+          "imagen": "https://img.youtube.com/vi/KL68W0jP9N4/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/KL68W0jP9N4",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 19,
+          "slug": "abertura-pecho",
+          "nombre": "Aperturas con mancuernas",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Pectoral",
+          "tecnica": "Acostado en banco plano, mancuernas arriba con leve flexión de codo. Bajar los brazos hacia los lados en arco controlado hasta sentir estiramiento en el pecho y volver.",
+          "erroresComunes": [
+            "Flexionar demasiado el codo (se convierte en press)",
+            "Bajar más de lo que permite el hombro",
+            "Usar peso excesivo"
+          ],
+          "imagen": "https://img.youtube.com/vi/SMlwt5R327I/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/SMlwt5R327I",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 5,
+          "slug": "press-militar",
+          "nombre": "Press militar de pie",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Hombros (deltoides)",
+          "tecnica": "De pie, barra a la altura de clavícula. Empujar hacia arriba en línea recta, sin arquear excesivamente la lumbar, hasta extender completamente los brazos.",
+          "erroresComunes": [
+            "Arquear demasiado la espalda baja",
+            "Empujar la barra hacia adelante en vez de hacia arriba",
+            "No estabilizar el core"
+          ],
+          "imagen": "https://img.youtube.com/vi/aWAZKSUFBdQ/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/aWAZKSUFBdQ",
+          "dificultad": "Intermedio"
+        },
+        {
+          "id": 47,
+          "slug": "elevaciones-laterales-polea",
+          "nombre": "Elevaciones laterales en polea",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Hombro (deltoides lateral)",
+          "tecnica": "De costado a la polea baja, brazo cercano a la máquina. Elevar el brazo hacia el lado hasta la altura del hombro, con leve quiebre de codo.",
+          "erroresComunes": [
+            "Usar impulso balanceando el torso",
+            "Tirar con el trapecio en vez del hombro"
+          ],
+          "imagen": "https://img.youtube.com/vi/2FFErVTJb3c/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/2FFErVTJb3c",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 59,
+          "slug": "extension-triceps-cuerda",
+          "nombre": "Extensión de tríceps en polea con cuerda",
+          "series": 4,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Tríceps",
+          "tecnica": "De pie frente a la polea alta con cuerda, codos pegados al torso. Extender abriendo la cuerda al final del recorrido, y volver controlado.",
+          "erroresComunes": [
+            "Despegar los codos del torso",
+            "No abrir la cuerda al final"
+          ],
+          "imagen": "https://img.youtube.com/vi/soUN4QLcagQ/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/soUN4QLcagQ",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 13,
+          "slug": "fondos-triceps",
+          "nombre": "Fondos en banco (tríceps)",
+          "series": 3,
+          "repeticiones": "12",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Tríceps",
+          "tecnica": "Manos apoyadas en el borde del banco, piernas extendidas. Bajar flexionando los codos hacia atrás hasta 90° y empujar hacia arriba extendiendo los brazos.",
+          "erroresComunes": [
+            "Bajar demasiado forzando el hombro",
+            "Abrir mucho los codos hacia los costados",
+            "Apoyar mal las muñecas"
+          ],
+          "imagen": "https://img.youtube.com/vi/cI6HMipOva4/hqdefault.jpg",
+          "video": "https://www.youtube.com/shorts/cI6HMipOva4",
+          "dificultad": "Intermedio"
+        },
+        {
+          "id": 79,
+          "slug": "gemelos-unilateral-mancuerna",
+          "nombre": "Gemelos unilateral con mancuerna",
+          "series": 3,
+          "repeticiones": "15",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Gemelos",
+          "tecnica": "De pie sobre un escalón con una pierna, mancuerna en la mano del mismo lado. Subir lo más alto posible y bajar controlado.",
+          "erroresComunes": [
+            "Rango de movimiento muy corto",
+            "Perder el equilibrio por falta de apoyo"
+          ],
+          "imagen": "https://img.youtube.com/vi/tU54YpeT6Nk/hqdefault.jpg",
+          "video": "https://www.youtube.com/watch?v=tU54YpeT6Nk",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 103,
+          "slug": "cierre-aerobico-final",
+          "nombre": "Aeróbico final",
+          "series": 1,
+          "repeticiones": "15-20 minutos",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Cardio (cierre)",
+          "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
+          "erroresComunes": [
+            "Elegir una intensidad demasiado alta para sostener el tiempo completo",
+            "Saltear este bloque de forma habitual"
+          ],
+          "imagen": "/media/imagenes/cierre-aerobico-final.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        },
+        {
+          "id": 104,
+          "slug": "cierre-elongacion",
+          "nombre": "Elongación",
+          "series": 1,
+          "repeticiones": "Grupos trabajados",
+          "descanso": "1 minuto 30 segundos",
+          "musculoPrincipal": "Elongación",
+          "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
+          "erroresComunes": [
+            "Rebotar en vez de sostener el estiramiento",
+            "Estirar en frío sin haber entrenado antes"
+          ],
+          "imagen": "/media/imagenes/cierre-elongacion.webp",
+          "video": "",
+          "dificultad": "Principiante"
+        }
+      ]
+    }
+  ]
+}
