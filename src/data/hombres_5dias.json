@@ -13,7 +13,7 @@
           "nombre": "Elíptico",
           "series": 1,
           "repeticiones": "15 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Entrada en calor (cardio)",
           "tecnica": "Movimiento continuo a intensidad moderada en elíptico, para elevar la temperatura corporal antes del entrenamiento.",
           "erroresComunes": [
@@ -30,7 +30,7 @@
           "nombre": "Crunch abdominal",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (recto anterior)",
           "tecnica": "Acostado, rodillas flexionadas, manos apoyadas cerca de la cabeza sin tirar del cuello. Subir el torso contrayendo el abdomen y bajar controlado sin apoyar del todo.",
           "erroresComunes": [
@@ -48,7 +48,7 @@
           "nombre": "Abdomen bajo",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (bajo)",
           "tecnica": "Acostado, manos apoyadas a los costados o bajo la lumbar. Despegar la cadera del piso llevando las rodillas hacia el pecho, y bajar controlado.",
           "erroresComunes": [
@@ -65,7 +65,7 @@
           "nombre": "Plancha abdominal",
           "series": 4,
           "repeticiones": "40 seg",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Core",
           "tecnica": "Apoyo en antebrazos y puntas de pie, cuerpo en línea recta de cabeza a talones. Mantener la posición contrayendo abdomen y glúteos sin dejar caer la cadera.",
           "erroresComunes": [
@@ -83,7 +83,7 @@
           "nombre": "Hiperextensión lumbar",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda baja / Glúteos",
           "tecnica": "Cadera apoyada en el banco romano, torso hacia abajo. Subir extendiendo la espalda hasta alinear el cuerpo, apretando glúteo, sin hiperextender de más arriba.",
           "erroresComunes": [
@@ -101,7 +101,7 @@
           "nombre": "Press de banca con barra",
           "series": 4,
           "repeticiones": "12-10-8-8",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Pectoral",
           "tecnica": "Acostado en banco plano, agarre un poco más ancho que los hombros. Bajar la barra controlada hasta rozar el pecho y empujar en línea recta hacia arriba sin bloquear de golpe los codos.",
           "erroresComunes": [
@@ -119,7 +119,7 @@
           "nombre": "Press inclinado con mancuernas",
           "series": 4,
           "repeticiones": "12-10-10-8",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Pectoral superior",
           "tecnica": "Banco inclinado 30-45°. Bajar las mancuernas controlado a los lados del pecho y empujar hacia arriba juntando ligeramente al final sin chocar las mancuernas.",
           "erroresComunes": [
@@ -137,7 +137,7 @@
           "nombre": "Press declinado en máquina",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Pectoral inferior",
           "tecnica": "Sentado con inclinación negativa, agarres a la altura del pecho bajo. Empujar al frente extendiendo los brazos sin bloquear de golpe los codos.",
           "erroresComunes": [
@@ -154,7 +154,7 @@
           "nombre": "Aperturas con mancuernas",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Pectoral",
           "tecnica": "Acostado en banco plano, mancuernas arriba con leve flexión de codo. Bajar los brazos hacia los lados en arco controlado hasta sentir estiramiento en el pecho y volver.",
           "erroresComunes": [
@@ -172,7 +172,7 @@
           "nombre": "Cruce de poleas",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Pectoral",
           "tecnica": "De pie entre dos poleas altas, un pie adelantado. Llevar ambas manos hacia el centro y abajo en arco, apretando el pecho al final.",
           "erroresComunes": [
@@ -189,7 +189,7 @@
           "nombre": "Fondos en máquina asistida",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Pectoral / Tríceps",
           "tecnica": "De pie sobre la plataforma con el contrapeso elegido, manos en los soportes. Bajar flexionando los codos y empujar hacia arriba extendiendo los brazos.",
           "erroresComunes": [
@@ -206,7 +206,7 @@
           "nombre": "Sentadilla en máquina Smith",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cuádriceps / Glúteos",
           "tecnica": "Barra sobre el trapecio, pies un poco adelantados respecto a la barra. Bajar controlado hasta que el muslo quede paralelo al piso, y subir.",
           "erroresComunes": [
@@ -223,7 +223,7 @@
           "nombre": "Aductores en máquina",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Aductores",
           "tecnica": "Sentado en la máquina, piernas apoyadas en las almohadillas abiertas. Cerrar las piernas apretando el aductor, y volver controlado.",
           "erroresComunes": [
@@ -240,7 +240,7 @@
           "nombre": "Extensión de tríceps en polea con cuerda",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Tríceps",
           "tecnica": "De pie frente a la polea alta con cuerda, codos pegados al torso. Extender abriendo la cuerda al final del recorrido, y volver controlado.",
           "erroresComunes": [
@@ -257,7 +257,7 @@
           "nombre": "Elevación de talones de pie",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Gemelos",
           "tecnica": "De pie sobre una base elevada, talones fuera del apoyo. Subir lo más alto posible sobre la punta de los pies, apretar arriba y bajar hasta sentir el estiramiento.",
           "erroresComunes": [
@@ -275,7 +275,7 @@
           "nombre": "Aeróbico final",
           "series": 1,
           "repeticiones": "15-20 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cardio (cierre)",
           "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
           "erroresComunes": [
@@ -292,7 +292,7 @@
           "nombre": "Elongación",
           "series": 1,
           "repeticiones": "Grupos trabajados",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Elongación",
           "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
           "erroresComunes": [
@@ -315,7 +315,7 @@
           "nombre": "Remo",
           "series": 1,
           "repeticiones": "15 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Entrada en calor (cardio)",
           "tecnica": "Remada continua a intensidad moderada en el remo ergométrico, activando piernas, espalda y core antes del entrenamiento.",
           "erroresComunes": [
@@ -332,7 +332,7 @@
           "nombre": "Abdomen con pelota, piernas extendidas",
           "series": 4,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen",
           "tecnica": "Acostado con la pelota entre las manos y los pies, piernas extendidas. Elevar torso y piernas para pasar la pelota de las manos a los pies.",
           "erroresComunes": [
@@ -349,7 +349,7 @@
           "nombre": "Abdomen oblicuo con giro (bicicleta)",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (oblicuos)",
           "tecnica": "Acostado, manos detrás de la cabeza. Llevar el codo hacia la rodilla contraria alternando piernas, en un movimiento de pedaleo controlado.",
           "erroresComunes": [
@@ -366,7 +366,7 @@
           "nombre": "Plancha lateral",
           "series": 3,
           "repeticiones": "30 seg c/lado",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (oblicuos)",
           "tecnica": "Apoyo en un antebrazo y el costado del pie, cuerpo en línea recta. Mantener la cadera elevada sin dejarla caer durante todo el tiempo.",
           "erroresComunes": [
@@ -383,7 +383,7 @@
           "nombre": "Espinales con bastón",
           "series": 4,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espinales / Zona lumbar",
           "tecnica": "De pie, bastón apoyado sobre los hombros como una barra. Flexionar el torso hacia adelante desde la cadera, manteniendo la espalda neutra, y volver.",
           "erroresComunes": [
@@ -400,7 +400,7 @@
           "nombre": "Jalón al pecho en polea",
           "series": 4,
           "repeticiones": "12-12-10-10",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda (dorsal ancho)",
           "tecnica": "Agarre ancho, torso ligeramente inclinado atrás. Tirar la barra hacia la parte alta del pecho llevando codos hacia abajo, y subir controlado sin soltar la tensión.",
           "erroresComunes": [
@@ -418,7 +418,7 @@
           "nombre": "Dorsalera toma cerrada por delante",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda (dorsal ancho)",
           "tecnica": "Agarre cerrado (barra V o similar), torso ligeramente atrás. Tirar hacia la parte alta del pecho llevando los codos hacia abajo y atrás.",
           "erroresComunes": [
@@ -435,7 +435,7 @@
           "nombre": "Remo con barra",
           "series": 4,
           "repeticiones": "10",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda (dorsal ancho)",
           "tecnica": "Torso inclinado unos 45°, espalda recta. Tirar de la barra hacia el abdomen llevando los codos hacia atrás, apretando los omóplatos, y bajar controlado.",
           "erroresComunes": [
@@ -453,7 +453,7 @@
           "nombre": "Remo en máquina",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda",
           "tecnica": "Sentado con el pecho apoyado en la almohadilla, agarres al frente. Tirar hacia atrás llevando los codos junto al cuerpo, apretando los omóplatos.",
           "erroresComunes": [
@@ -470,7 +470,7 @@
           "nombre": "Remo con mancuerna a una mano",
           "series": 3,
           "repeticiones": "10 c/lado",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda",
           "tecnica": "Apoyo de una mano y rodilla en el banco, torso paralelo al piso. Tirar la mancuerna hacia la cadera llevando el codo hacia atrás, apretando el omóplato.",
           "erroresComunes": [
@@ -488,7 +488,7 @@
           "nombre": "Pull-over en polea",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda / Pectoral",
           "tecnica": "De pie frente a la polea alta, brazos casi extendidos. Bajar los brazos en arco hasta la altura de los muslos, sintiendo el estiramiento del dorsal.",
           "erroresComunes": [
@@ -505,7 +505,7 @@
           "nombre": "Extensión de cuádriceps en máquina",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cuádriceps",
           "tecnica": "Sentado, respaldo ajustado, tobillo bajo el rodillo. Extender la pierna hasta casi bloquear la rodilla, apretar arriba y bajar controlado sin soltar el peso de golpe.",
           "erroresComunes": [
@@ -523,7 +523,7 @@
           "nombre": "Curl en polea baja",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Bíceps",
           "tecnica": "De pie frente a la polea baja, agarre supino. Flexionar el codo llevando la barra hacia el hombro sin mover el torso.",
           "erroresComunes": [
@@ -540,7 +540,7 @@
           "nombre": "Gemelos sentado en máquina",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Gemelos (sóleo)",
           "tecnica": "Sentado, rodillas bajo las almohadillas, puntas de pie sobre la plataforma. Subir lo más alto posible y bajar hasta sentir el estiramiento.",
           "erroresComunes": [
@@ -557,7 +557,7 @@
           "nombre": "Aeróbico final",
           "series": 1,
           "repeticiones": "15-20 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cardio (cierre)",
           "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
           "erroresComunes": [
@@ -574,7 +574,7 @@
           "nombre": "Elongación",
           "series": 1,
           "repeticiones": "Grupos trabajados",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Elongación",
           "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
           "erroresComunes": [
@@ -597,7 +597,7 @@
           "nombre": "Bicicleta",
           "series": 1,
           "repeticiones": "15 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Entrada en calor (cardio)",
           "tecnica": "Pedaleo continuo a intensidad moderada en bicicleta fija, para elevar la temperatura corporal antes del entrenamiento.",
           "erroresComunes": [
@@ -614,7 +614,7 @@
           "nombre": "Crunch en máquina",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen",
           "tecnica": "Sentado en la máquina, torso apoyado en la almohadilla superior. Flexionar el torso hacia adelante contrayendo el abdomen, y volver controlado.",
           "erroresComunes": [
@@ -631,7 +631,7 @@
           "nombre": "Abdomen tocando talones",
           "series": 4,
           "repeticiones": "12 c/lado",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (oblicuos)",
           "tecnica": "Acostado, rodillas flexionadas y pies apoyados. Elevar levemente el torso y tocar alternadamente cada talón con la mano del mismo lado.",
           "erroresComunes": [
@@ -648,7 +648,7 @@
           "nombre": "Plancha abdominal combinada",
           "series": 1,
           "repeticiones": "30\" estático / 30\" dinámico",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Core",
           "tecnica": "Apoyo en antebrazos y puntas de pie. Mantener la posición estática la primera mitad del tiempo y sumar movimiento dinámico en la segunda mitad.",
           "erroresComunes": [
@@ -665,7 +665,7 @@
           "nombre": "Hiperextensión lumbar",
           "series": 4,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda baja / Glúteos",
           "tecnica": "Cadera apoyada en el banco romano, torso hacia abajo. Subir extendiendo la espalda hasta alinear el cuerpo, apretando glúteo, sin hiperextender de más arriba.",
           "erroresComunes": [
@@ -683,7 +683,7 @@
           "nombre": "Sentadilla con barra",
           "series": 4,
           "repeticiones": "12-10-8-8",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cuádriceps / Glúteos",
           "tecnica": "Barra apoyada sobre el trapecio, pies al ancho de hombros. Bajar controlando la cadera hacia atrás y abajo hasta que el muslo quede paralelo al piso, manteniendo el pecho arriba y las rodillas alineadas con los pies.",
           "erroresComunes": [
@@ -701,7 +701,7 @@
           "nombre": "Prensa 45°",
           "series": 4,
           "repeticiones": "15-12-12-10",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cuádriceps / Glúteos",
           "tecnica": "Sentado en la prensa, pies al ancho de hombros sobre la plataforma. Bajar controlado hasta 90° de rodilla y empujar sin bloquear de golpe.",
           "erroresComunes": [
@@ -718,7 +718,7 @@
           "nombre": "Sentadilla búlgara",
           "series": 3,
           "repeticiones": "10 c/pierna",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cuádriceps / Glúteos",
           "tecnica": "Pie trasero apoyado en un banco, pie delantero al frente. Bajar controlando la rodilla trasera hacia el piso y subir con la pierna delantera.",
           "erroresComunes": [
@@ -735,7 +735,7 @@
           "nombre": "Peso muerto rumano con mancuernas",
           "series": 4,
           "repeticiones": "10",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Isquiotibiales / Glúteos",
           "tecnica": "Mancuernas al frente del cuerpo, piernas semi extendidas. Bajar empujando la cadera hacia atrás sin redondear la espalda, hasta sentir el estiramiento.",
           "erroresComunes": [
@@ -752,7 +752,7 @@
           "nombre": "Curl femoral sentado",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Isquiotibiales",
           "tecnica": "Sentado en la máquina, rodillo apoyado sobre el tobillo, respaldo ajustado. Flexionar la rodilla llevando el rodillo hacia abajo y volver controlado.",
           "erroresComunes": [
@@ -769,7 +769,7 @@
           "nombre": "Hip thrust con barra",
           "series": 4,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Glúteos",
           "tecnica": "Espalda apoyada en banco, barra sobre la cadera. Empujar la cadera hacia arriba apretando fuerte el glúteo en la parte alta, sin hiperextender la lumbar, y bajar controlado.",
           "erroresComunes": [
@@ -787,7 +787,7 @@
           "nombre": "Abducción de cadera en máquina",
           "series": 3,
           "repeticiones": "20",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Glúteo medio",
           "tecnica": "Sentado en la máquina, respaldo recto. Abrir las piernas contra la resistencia apretando el glúteo, y volver controlado sin dejar caer el peso de golpe.",
           "erroresComunes": [
@@ -805,7 +805,7 @@
           "nombre": "Aductores en máquina",
           "series": 3,
           "repeticiones": "20",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Aductores",
           "tecnica": "Sentado en la máquina, piernas apoyadas en las almohadillas abiertas. Cerrar las piernas apretando el aductor, y volver controlado.",
           "erroresComunes": [
@@ -822,7 +822,7 @@
           "nombre": "Gemelos en prensa",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Gemelos",
           "tecnica": "Sentado en la prensa, solo la punta de los pies apoyada en la plataforma. Empujar extendiendo el tobillo y bajar hasta sentir el estiramiento.",
           "erroresComunes": [
@@ -839,7 +839,7 @@
           "nombre": "Gemelos unilateral con mancuerna",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Gemelos",
           "tecnica": "De pie sobre un escalón con una pierna, mancuerna en la mano del mismo lado. Subir lo más alto posible y bajar controlado.",
           "erroresComunes": [
@@ -856,7 +856,7 @@
           "nombre": "Aeróbico final",
           "series": 1,
           "repeticiones": "15-20 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cardio (cierre)",
           "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
           "erroresComunes": [
@@ -873,7 +873,7 @@
           "nombre": "Elongación",
           "series": 1,
           "repeticiones": "Grupos trabajados",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Elongación",
           "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
           "erroresComunes": [
@@ -896,7 +896,7 @@
           "nombre": "Cinta",
           "series": 1,
           "repeticiones": "15 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Entrada en calor (cardio)",
           "tecnica": "Trote suave o caminata rápida en cinta, para elevar la temperatura corporal antes del entrenamiento.",
           "erroresComunes": [
@@ -913,7 +913,7 @@
           "nombre": "Crunch en polea alta",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen",
           "tecnica": "Arrodillado frente a la polea alta, cuerda detrás de la nuca. Flexionar el torso hacia abajo contrayendo el abdomen, sin mover la cadera.",
           "erroresComunes": [
@@ -930,7 +930,7 @@
           "nombre": "Elevación de piernas colgado",
           "series": 4,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (bajo)",
           "tecnica": "Colgado de una barra con agarre firme. Elevar las piernas (flexionadas o extendidas) hacia el pecho contrayendo el abdomen, y bajar controlado.",
           "erroresComunes": [
@@ -947,7 +947,7 @@
           "nombre": "Abdomen oblicuo con mancuerna (leñador)",
           "series": 3,
           "repeticiones": "12 c/lado",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (oblicuos)",
           "tecnica": "De pie, mancuerna sostenida con ambas manos. Rotar el torso llevando la mancuerna en diagonal desde arriba de un hombro hasta la cadera contraria.",
           "erroresComunes": [
@@ -964,7 +964,7 @@
           "nombre": "Superman en colchoneta",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espinales / Zona lumbar",
           "tecnica": "Acostado boca abajo, brazos extendidos al frente. Elevar simultáneamente brazos y piernas del piso, apretando la zona lumbar, y bajar controlado.",
           "erroresComunes": [
@@ -981,7 +981,7 @@
           "nombre": "Press militar de pie",
           "series": 4,
           "repeticiones": "12-10-8-8",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Hombros (deltoides)",
           "tecnica": "De pie, barra a la altura de clavícula. Empujar hacia arriba en línea recta, sin arquear excesivamente la lumbar, hasta extender completamente los brazos.",
           "erroresComunes": [
@@ -999,7 +999,7 @@
           "nombre": "Press en máquina para hombros",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Hombros",
           "tecnica": "Sentado con respaldo, agarres a la altura del hombro. Empujar hacia arriba sin bloquear de golpe los codos, y bajar controlado.",
           "erroresComunes": [
@@ -1016,7 +1016,7 @@
           "nombre": "Elevaciones laterales con mancuernas",
           "series": 4,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Hombro (deltoides lateral)",
           "tecnica": "De pie, mancuernas a los costados. Elevar los brazos hacia los lados hasta la altura del hombro, con un ligero quiebre en el codo, y bajar controlado.",
           "erroresComunes": [
@@ -1034,7 +1034,7 @@
           "nombre": "Elevaciones laterales en polea",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Hombro (deltoides lateral)",
           "tecnica": "De costado a la polea baja, brazo cercano a la máquina. Elevar el brazo hacia el lado hasta la altura del hombro, con leve quiebre de codo.",
           "erroresComunes": [
@@ -1051,7 +1051,7 @@
           "nombre": "Voladas posteriores en máquina",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Hombro (deltoides posterior)",
           "tecnica": "Sentado de frente a la máquina, pecho apoyado. Abrir los brazos hacia atrás apretando los omóplatos, y volver controlado.",
           "erroresComunes": [
@@ -1068,7 +1068,7 @@
           "nombre": "Elevaciones frontales con barra",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Hombro (deltoides anterior)",
           "tecnica": "De pie, barra con agarre prono al frente del muslo. Elevar hasta la altura del hombro sin balancear el cuerpo, y bajar controlado.",
           "erroresComunes": [
@@ -1085,7 +1085,7 @@
           "nombre": "Zancadas con mancuernas",
           "series": 3,
           "repeticiones": "10 c/pierna",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cuádriceps / Glúteos",
           "tecnica": "Dar un paso largo al frente, bajar hasta que ambas rodillas formen 90°, sin que la rodilla delantera sobrepase mucho la punta del pie, y volver a la posición inicial.",
           "erroresComunes": [
@@ -1103,7 +1103,7 @@
           "nombre": "Elevación de talones de pie",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Gemelos",
           "tecnica": "De pie sobre una base elevada, talones fuera del apoyo. Subir lo más alto posible sobre la punta de los pies, apretar arriba y bajar hasta sentir el estiramiento.",
           "erroresComunes": [
@@ -1121,7 +1121,7 @@
           "nombre": "Aeróbico final",
           "series": 1,
           "repeticiones": "15-20 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cardio (cierre)",
           "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
           "erroresComunes": [
@@ -1138,7 +1138,7 @@
           "nombre": "Elongación",
           "series": 1,
           "repeticiones": "Grupos trabajados",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Elongación",
           "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
           "erroresComunes": [
@@ -1161,7 +1161,7 @@
           "nombre": "Elíptico",
           "series": 1,
           "repeticiones": "15 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Entrada en calor (cardio)",
           "tecnica": "Movimiento continuo a intensidad moderada en elíptico, para elevar la temperatura corporal antes del entrenamiento.",
           "erroresComunes": [
@@ -1178,7 +1178,7 @@
           "nombre": "Crunch abdominal",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (recto anterior)",
           "tecnica": "Acostado, rodillas flexionadas, manos apoyadas cerca de la cabeza sin tirar del cuello. Subir el torso contrayendo el abdomen y bajar controlado sin apoyar del todo.",
           "erroresComunes": [
@@ -1196,7 +1196,7 @@
           "nombre": "Abdomen oblicuo con giro (bicicleta)",
           "series": 4,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (oblicuos)",
           "tecnica": "Acostado, manos detrás de la cabeza. Llevar el codo hacia la rodilla contraria alternando piernas, en un movimiento de pedaleo controlado.",
           "erroresComunes": [
@@ -1213,7 +1213,7 @@
           "nombre": "Elevación de piernas en banco",
           "series": 4,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Abdomen (bajo)",
           "tecnica": "Acostado en un banco, manos sosteniendo el borde por detrás de la cabeza. Elevar las piernas extendidas o semiflexionadas contrayendo el abdomen bajo.",
           "erroresComunes": [
@@ -1230,7 +1230,7 @@
           "nombre": "Plancha abdominal",
           "series": 4,
           "repeticiones": "50 seg",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Core",
           "tecnica": "Apoyo en antebrazos y puntas de pie, cuerpo en línea recta de cabeza a talones. Mantener la posición contrayendo abdomen y glúteos sin dejar caer la cadera.",
           "erroresComunes": [
@@ -1248,7 +1248,7 @@
           "nombre": "Hiperextensión lumbar",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Espalda baja / Glúteos",
           "tecnica": "Cadera apoyada en el banco romano, torso hacia abajo. Subir extendiendo la espalda hasta alinear el cuerpo, apretando glúteo, sin hiperextender de más arriba.",
           "erroresComunes": [
@@ -1266,7 +1266,7 @@
           "nombre": "Curl con barra recta",
           "series": 4,
           "repeticiones": "10",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Bíceps",
           "tecnica": "De pie, agarre supino en la barra recta. Flexionar los codos llevando la barra hacia el hombro sin mover el torso, y bajar controlado.",
           "erroresComunes": [
@@ -1283,7 +1283,7 @@
           "nombre": "Curl alternado con mancuernas",
           "series": 4,
           "repeticiones": "10",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Bíceps",
           "tecnica": "De pie, mancuernas a los costados. Flexionar un brazo por vez llevando la mancuerna hacia el hombro, girando la muñeca hacia afuera.",
           "erroresComunes": [
@@ -1300,7 +1300,7 @@
           "nombre": "Curl martillo",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Bíceps / Antebrazo",
           "tecnica": "De pie, mancuernas con agarre neutro (palmas enfrentadas). Flexionar el codo llevando la mancuerna hacia el hombro, y bajar controlado.",
           "erroresComunes": [
@@ -1317,7 +1317,7 @@
           "nombre": "Curl concentrado",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Bíceps",
           "tecnica": "Sentado, codo apoyado en la cara interna del muslo. Flexionar el codo llevando la mancuerna hacia el hombro, apretando el bíceps arriba.",
           "erroresComunes": [
@@ -1334,7 +1334,7 @@
           "nombre": "Press francés con barra",
           "series": 4,
           "repeticiones": "10",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Tríceps",
           "tecnica": "Acostado en banco, barra sostenida con agarre cerrado sobre la frente. Bajar flexionando solo los codos y extender hacia arriba sin mover los brazos.",
           "erroresComunes": [
@@ -1351,7 +1351,7 @@
           "nombre": "Extensión de tríceps en polea con cuerda",
           "series": 4,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Tríceps",
           "tecnica": "De pie frente a la polea alta con cuerda, codos pegados al torso. Extender abriendo la cuerda al final del recorrido, y volver controlado.",
           "erroresComunes": [
@@ -1368,7 +1368,7 @@
           "nombre": "Patada de tríceps con mancuerna",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Tríceps",
           "tecnica": "Apoyo de una mano y rodilla en el banco, brazo pegado al torso paralelo al piso. Extender el codo hacia atrás y volver controlado.",
           "erroresComunes": [
@@ -1385,7 +1385,7 @@
           "nombre": "Fondos en banco (tríceps)",
           "series": 3,
           "repeticiones": "12",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Tríceps",
           "tecnica": "Manos apoyadas en el borde del banco, piernas extendidas. Bajar flexionando los codos hacia atrás hasta 90° y empujar hacia arriba extendiendo los brazos.",
           "erroresComunes": [
@@ -1403,7 +1403,7 @@
           "nombre": "Step up con mancuernas",
           "series": 3,
           "repeticiones": "10 c/pierna",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cuádriceps / Glúteos",
           "tecnica": "Mancuernas a los costados, subir a un banco o cajón con una pierna, apoyando todo el pie. Subir el cuerpo completo y bajar controlado.",
           "erroresComunes": [
@@ -1420,7 +1420,7 @@
           "nombre": "Gemelos sentado en máquina",
           "series": 3,
           "repeticiones": "15",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Gemelos (sóleo)",
           "tecnica": "Sentado, rodillas bajo las almohadillas, puntas de pie sobre la plataforma. Subir lo más alto posible y bajar hasta sentir el estiramiento.",
           "erroresComunes": [
@@ -1437,7 +1437,7 @@
           "nombre": "Aeróbico final",
           "series": 1,
           "repeticiones": "15-20 minutos",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Cardio (cierre)",
           "tecnica": "Actividad aeróbica continua en cinta, bicicleta, elíptico o remo, a intensidad moderada, durante 15 a 20 minutos al finalizar el entrenamiento de fuerza.",
           "erroresComunes": [
@@ -1454,7 +1454,7 @@
           "nombre": "Elongación",
           "series": 1,
           "repeticiones": "Grupos trabajados",
-          "descanso": "1 minuto 30 segundos",
+          "descanso": "2 minutos",
           "musculoPrincipal": "Elongación",
           "tecnica": "Estiramiento sostenido (20-30 segundos por grupo muscular) de los principales grupos trabajados en la sesión, sin rebotes.",
           "erroresComunes": [
